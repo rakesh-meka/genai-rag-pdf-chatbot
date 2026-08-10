@@ -143,7 +143,6 @@ streamlit run main.py
 
 * Source citations in responses
 * Hybrid search (Keyword + Semantic Search)
-* Persistent chat history
 * Cloud deployment
 * RAG evaluation metrics
 * User authentication
