@@ -1,4 +1,4 @@
-# 📚 GenAI – Conversational PDF Assistant with RAG
+# 📚 GenAI – Conversational PDF Assistant with Naive RAG
 
 Turn static PDF documents into an interactive AI-powered knowledge assistant.
 This is a Naive Retrieval-Augmented Generation (RAG) application that enables users to upload PDF files and interact with their content through natural language conversations. Instead of manually searching through lengthy documents users can ask questions and receive context-aware responses grounded in the uploaded document.
